@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>项目-谷歌浏览器插件-视频进度条标签</title>
+      <link href="/2019/08/20/%E9%A1%B9%E7%9B%AE-%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6/"/>
+      <url>/2019/08/20/%E9%A1%B9%E7%9B%AE-%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="B站进度条高亮注释"><a href="#B站进度条高亮注释" class="headerlink" title="B站进度条高亮注释"></a>B站进度条高亮注释</h1><h4 id="简介："><a href="#简介：" class="headerlink" title="简介："></a>简介：</h4><p>这是一个谷歌插件，能给B站视频的进度条进行标点和注释。</p><h4 id="安装："><a href="#安装：" class="headerlink" title="安装："></a>安装：</h4><p>下载crx文件，拖进浏览器就可以安装了。</p><p><del>谷歌应用商店安装：上传谷歌商店要$5,暂时不上了。</del></p><h4 id="功能："><a href="#功能：" class="headerlink" title="功能："></a>功能：</h4><p>添加–a键，删除-d键+鼠标选中，增加注释-s键+鼠标选中，修改注释-s键+鼠标选中；</p><h5 id="1-添加高亮点："><a href="#1-添加高亮点：" class="headerlink" title="1.添加高亮点："></a>1.添加高亮点：</h5><p>拖动进度条到达想要的位置，点击键盘上的A触发标点。</p><p><img src="https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIF2.gif" alt="GIFchange"></p><a id="more"></a><h5 id="2-添加高亮点注释："><a href="#2-添加高亮点注释：" class="headerlink" title="2.添加高亮点注释："></a>2.添加高亮点注释：</h5><p>移动鼠标到高亮点处，点击键盘的S，弹出输入框，输入注释，点击确认添加。</p><p><img src="https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIFset.gif" alt="GIFchange"></p><h5 id="3-删除高亮点："><a href="#3-删除高亮点：" class="headerlink" title="3.删除高亮点："></a>3.删除高亮点：</h5><p>移动鼠标到高亮点处，点击键盘的D，即可删除。</p><p><img src="https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIFdele.gif" alt="GIFchange"></p><h5 id="4-改变已有注释："><a href="#4-改变已有注释：" class="headerlink" title="4.改变已有注释："></a>4.改变已有注释：</h5><p>移动鼠标到高亮点处，点击键盘的S，弹出输入框，输入新注释，点击确认添加。</p><p><img src="https://github.com/csigto123/bilibili-video-highlight-bookmaks/blob/master/readmeimg/GIFchange.gif" alt="GIFchange"></p><h5 id="5-未完后续添加其他功能："><a href="#5-未完后续添加其他功能：" class="headerlink" title="5.未完后续添加其他功能："></a>5.未完后续添加其他功能：</h5><p>搬砖后有空就写吧。</p><h4 id="备注："><a href="#备注：" class="headerlink" title="备注："></a>备注：</h4><p>关于存储的数据，暂时还不支持导出数据，<strong>卸载插件，会清空数据</strong>，如果想备份，可以到插件的安装目录手动将数据复制备份。</p><p>互动视频无法使用。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目 </category>
+          
+          <category> 谷歌插件 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>常见命名中英文对照</title>
       <link href="/2019/03/17/%E5%B8%B8%E8%A7%81%E5%91%BD%E5%90%8D%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/"/>
       <url>/2019/03/17/%E5%B8%B8%E8%A7%81%E5%91%BD%E5%90%8D%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/</url>
@@ -25,27 +46,6 @@
     
     
     <entry>
-      <title>在线手册和优质js项目</title>
-      <link href="/2018/12/30/%E5%9C%A8%E7%BA%BF%E6%89%8B%E5%86%8C/"/>
-      <url>/2018/12/30/%E5%9C%A8%E7%BA%BF%E6%89%8B%E5%86%8C/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th align="center">在线手册和优质js项目</th><th align="center">说明</th></tr></thead><tbody><tr><td align="center"><a href="https://cn.vuejs.org/" target="_blank" rel="noopener">Vue</a></td><td align="center">是一套构建用户界面的渐进式框架。</td></tr><tr><td align="center"><a href="https://www.jquery123.com/" target="_blank" rel="noopener">jQuery API </a></td><td align="center">是一个 JavaScript 库</td></tr><tr><td align="center"><a href="https://www.runoob.com/tags/html-reference.html" target="_blank" rel="noopener">HTML在线手册 </a></td><td align="center">HTML在线手册</td></tr><tr><td align="center"><a href="http://css.doyoe.com/" target="_blank" rel="noopener">CSS参考手册 </a></td><td align="center">CSS参考手册</td></tr><tr><td align="center"><a href="http://es6.ruanyifeng.com/" target="_blank" rel="noopener">ECMAScript 6 入门</a></td><td align="center">阮一峰es6入门</td></tr><tr><td align="center"><a href="https://developers.weixin.qq.com/miniprogram/dev/framework/" target="_blank" rel="noopener">微信小程序 </a></td><td align="center">微信小程序官方开发文档</td></tr><tr><td align="center"><a href="https://progit.bootcss.com/" target="_blank" rel="noopener">Pro Git </a></td><td align="center">Pro Git 中文版（第二版）是一本详细的 Git 指南</td></tr><tr><td align="center"><a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank" rel="noopener">Git教程 - 廖雪峰的官方网站 </a></td><td align="center">Git教程 - 廖雪峰的官方网站</td></tr><tr><td align="center"><a href="https://www.bootcss.com/p/git-guide/" target="_blank" rel="noopener">Git Guide </a></td><td align="center">Git 简易指南</td></tr><tr><td align="center"><a href="https://chartjs.bootcss.com/" target="_blank" rel="noopener">Chart.js </a></td><td align="center">开源的 HTML5 图表工具</td></tr><tr><td align="center"><a href="http://momentjs.cn/" target="_blank" rel="noopener">Moment.js </a></td><td align="center">JavaScript 日期处理类库</td></tr></tbody></table><a id="more"></a><table><thead><tr><th align="center">在线手册和优质js项目</th><th align="center">说明</th></tr></thead><tbody><tr><td align="center"><a href="http://mockjs.com/" target="_blank" rel="noopener">Mock.js </a></td><td align="center">生成随机数据，拦截 Ajax 请求</td></tr><tr><td align="center"><a href="[https://www.easy-mock.com](https://www.easy-mock.com/)">easy mock </a></td><td align="center">能快速生成模拟数据的服务</td></tr><tr><td align="center"><a href="https://www.sasscss.com/" target="_blank" rel="noopener">Sass</a></td><td align="center">最流行的 CSS 扩展语言解析器</td></tr><tr><td align="center"><a href="https://www.bootcss.com/p/lesscss/" target="_blank" rel="noopener">LESS </a></td><td align="center">一种动态样式语言</td></tr><tr><td align="center"><a href="https://www.webpackjs.com/" target="_blank" rel="noopener">Webpack</a></td><td align="center">是前端资源模块化管理和打包工具</td></tr><tr><td align="center"><a href="https://www.bootcss.com/" target="_blank" rel="noopener">Bootstrap </a></td><td align="center">简洁、直观、强悍的前端开发框架，让web开发更迅速、简单。</td></tr><tr><td align="center"><a href="http://fontawesome.dashgame.com/" target="_blank" rel="noopener">Font Awesome</a></td><td align="center">一套绝佳的图标字体库和CSS框架</td></tr><tr><td align="center"><a href="https://www.iconfont.cn/" target="_blank" rel="noopener">Icon<em>font</em>-<em>阿里巴巴</em>矢量图标库</a></td><td align="center">国内功能很强大且图标内容很丰富的矢量图标库</td></tr><tr><td align="center"><a href="https://daneden.github.io/animate.css/" target="_blank" rel="noopener"><em>css</em> 动画:<em>animate.css</em></a></td><td align="center">Just-add-water CSS animations</td></tr><tr><td align="center"><a href="http://www.jq22.com/jquery-info819" target="_blank" rel="noopener">一款强大的预设css3动画库</a></td><td align="center">一款强大的预设css3动画库</td></tr><tr><td align="center"><a href="https://www.babeljs.cn/" target="_blank" rel="noopener">Babel </a></td><td align="center">是一个 JavaScript 编译器。</td></tr><tr><td align="center"><a href="https://www.nodeapp.cn/" target="_blank" rel="noopener">Node.js</a></td><td align="center">Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。</td></tr><tr><td align="center"><a href="https://www.npmjs.cn/" target="_blank" rel="noopener">NPM </a></td><td align="center">NPM（node package manager）是 Node.js 世界的包管理器。</td></tr><tr><td align="center">artTemplate</td><td align="center"></td></tr><tr><td align="center">template.js</td><td align="center"></td></tr></tbody></table>]]></content>
-      
-      
-      <categories>
-          
-          <category> 前端总结 </category>
-          
-          <category> 在线手册 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>前端笔记--js基础笔记</title>
       <link href="/2018/12/30/js%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/"/>
       <url>/2018/12/30/js%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/</url>
@@ -58,6 +58,27 @@
           <category> 前端笔记 </category>
           
           <category> js基础 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在线手册和优质js项目</title>
+      <link href="/2018/12/30/%E5%9C%A8%E7%BA%BF%E6%89%8B%E5%86%8C/"/>
+      <url>/2018/12/30/%E5%9C%A8%E7%BA%BF%E6%89%8B%E5%86%8C/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th align="center">在线手册和优质js项目</th><th align="center">说明</th></tr></thead><tbody><tr><td align="center"><a href="https://cn.vuejs.org/" target="_blank" rel="noopener">Vue</a></td><td align="center">是一套构建用户界面的渐进式框架。</td></tr><tr><td align="center"><a href="https://www.jquery123.com/" target="_blank" rel="noopener">jQuery API </a></td><td align="center">是一个 JavaScript 库</td></tr><tr><td align="center"><a href="https://www.runoob.com/tags/html-reference.html" target="_blank" rel="noopener">HTML在线手册 </a></td><td align="center">HTML在线手册</td></tr><tr><td align="center"><a href="http://css.doyoe.com/" target="_blank" rel="noopener">CSS参考手册 </a></td><td align="center">CSS参考手册</td></tr><tr><td align="center"><a href="http://es6.ruanyifeng.com/" target="_blank" rel="noopener">ECMAScript 6 入门</a></td><td align="center">阮一峰es6入门</td></tr><tr><td align="center"><a href="https://developers.weixin.qq.com/miniprogram/dev/framework/" target="_blank" rel="noopener">微信小程序 </a></td><td align="center">微信小程序官方开发文档</td></tr><tr><td align="center"><a href="https://progit.bootcss.com/" target="_blank" rel="noopener">Pro Git </a></td><td align="center">Pro Git 中文版（第二版）是一本详细的 Git 指南</td></tr><tr><td align="center"><a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank" rel="noopener">Git教程 - 廖雪峰的官方网站 </a></td><td align="center">Git教程 - 廖雪峰的官方网站</td></tr><tr><td align="center"><a href="https://www.bootcss.com/p/git-guide/" target="_blank" rel="noopener">Git Guide </a></td><td align="center">Git 简易指南</td></tr><tr><td align="center"><a href="https://chartjs.bootcss.com/" target="_blank" rel="noopener">Chart.js </a></td><td align="center">开源的 HTML5 图表工具</td></tr><tr><td align="center"><a href="http://momentjs.cn/" target="_blank" rel="noopener">Moment.js </a></td><td align="center">JavaScript 日期处理类库</td></tr></tbody></table><a id="more"></a><table><thead><tr><th align="center">在线手册和优质js项目</th><th align="center">说明</th></tr></thead><tbody><tr><td align="center"><a href="http://mockjs.com/" target="_blank" rel="noopener">Mock.js </a></td><td align="center">生成随机数据，拦截 Ajax 请求</td></tr><tr><td align="center"><a href="[https://www.easy-mock.com](https://www.easy-mock.com/)">easy mock </a></td><td align="center">能快速生成模拟数据的服务</td></tr><tr><td align="center"><a href="https://www.sasscss.com/" target="_blank" rel="noopener">Sass</a></td><td align="center">最流行的 CSS 扩展语言解析器</td></tr><tr><td align="center"><a href="https://www.bootcss.com/p/lesscss/" target="_blank" rel="noopener">LESS </a></td><td align="center">一种动态样式语言</td></tr><tr><td align="center"><a href="https://www.webpackjs.com/" target="_blank" rel="noopener">Webpack</a></td><td align="center">是前端资源模块化管理和打包工具</td></tr><tr><td align="center"><a href="https://www.bootcss.com/" target="_blank" rel="noopener">Bootstrap </a></td><td align="center">简洁、直观、强悍的前端开发框架，让web开发更迅速、简单。</td></tr><tr><td align="center"><a href="http://fontawesome.dashgame.com/" target="_blank" rel="noopener">Font Awesome</a></td><td align="center">一套绝佳的图标字体库和CSS框架</td></tr><tr><td align="center"><a href="https://www.iconfont.cn/" target="_blank" rel="noopener">Icon<em>font</em>-<em>阿里巴巴</em>矢量图标库</a></td><td align="center">国内功能很强大且图标内容很丰富的矢量图标库</td></tr><tr><td align="center"><a href="https://daneden.github.io/animate.css/" target="_blank" rel="noopener"><em>css</em> 动画:<em>animate.css</em></a></td><td align="center">Just-add-water CSS animations</td></tr><tr><td align="center"><a href="http://www.jq22.com/jquery-info819" target="_blank" rel="noopener">一款强大的预设css3动画库</a></td><td align="center">一款强大的预设css3动画库</td></tr><tr><td align="center"><a href="https://www.babeljs.cn/" target="_blank" rel="noopener">Babel </a></td><td align="center">是一个 JavaScript 编译器。</td></tr><tr><td align="center"><a href="https://www.nodeapp.cn/" target="_blank" rel="noopener">Node.js</a></td><td align="center">Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。</td></tr><tr><td align="center"><a href="https://www.koajs.com.cn/" target="_blank" rel="noopener">Koa (koajs)</a></td><td align="center">基于 Node.js 平台的下一代 web 开发框架</td></tr><tr><td align="center"><a href="https://www.npmjs.cn/" target="_blank" rel="noopener">NPM </a></td><td align="center">NPM（node package manager）是 Node.js 世界的包管理器。</td></tr><tr><td align="center">artTemplate</td><td align="center"></td></tr><tr><td align="center">template.js</td><td align="center"></td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端总结 </category>
+          
+          <category> 在线手册 </category>
           
       </categories>
       
